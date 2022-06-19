@@ -21,7 +21,7 @@ h3 {
     text-align: left;
 }
 
-span {
+.price {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
